@@ -1,0 +1,185 @@
+================================================================================
+ COMPREHENSIVE PHONOLOGICAL ANALYSIS
+ (Input file: formants_full_smoothed_2_manual.csv)
+================================================================================
+
+SECTION 1: DIRECT PRECEDING ENVIRONMENTS FOR GLIDES
+--------------------------------------------------
+Focus: What segment (PrevSeg) immediately precedes a glide (Label = G)?
+Key: Vowel /.../ = Vowel Nucleus, /C/ = Consonant, Ø (Null) = Word/Syllable Initial
+
+Total Glide Tokens Analyzed: 101
+--------------------------------------------------
+
+--> ENVIRONMENTS PRECEDING GLIDE /j/ (N=69):
+  /ə_/                           : 14 tokens
+  /a_/                           : 13 tokens
+  /n/                            : 6 tokens
+  /ɑ̃_/                          : 5 tokens
+  /ɔ̃_/                          : 4 tokens
+  Vowel /a/                      : 4 tokens
+  Vowel /ɑ(nasal)/               : 4 tokens
+  Vowel /ə/                      : 2 tokens
+  /p/                            : 2 tokens
+  /ʌ_/                           : 2 tokens
+  /pɹ/                           : 1 tokens
+  /ə/                            : 1 tokens
+  Vowel /ɔ(nasal)/               : 1 tokens
+  /t͡θ/                          : 1 tokens
+  /t͡ʃ̺/                         : 1 tokens
+  /m/                            : 1 tokens
+  /k/                            : 1 tokens
+  /θ/                            : 1 tokens
+  /_ə/                           : 1 tokens
+  /kʰ/                           : 1 tokens
+  /_a/                           : 1 tokens
+  /t/                            : 1 tokens
+  /f/                            : 1 tokens
+
+--> ENVIRONMENTS PRECEDING GLIDE /w/ (N=25):
+  /ɹ/                            : 5 tokens
+  /_ə/                           : 3 tokens
+  /m/                            : 3 tokens
+  /t͡ʃ̺/                         : 2 tokens
+  /ʃ/                            : 2 tokens
+  /t/                            : 2 tokens
+  /χ/                            : 2 tokens
+  /l/                            : 1 tokens
+  /ə/                            : 1 tokens
+  /h/                            : 1 tokens
+  /pʰ/                           : 1 tokens
+  /t͡ʃ/                          : 1 tokens
+  /z/                            : 1 tokens
+
+--> ENVIRONMENTS PRECEDING GLIDE /ɰ/ (N=7):
+  /z/                            : 4 tokens
+  /t͡θ/                          : 1 tokens
+  /n/                            : 1 tokens
+  /θ/                            : 1 tokens
+
+================================================================================
+
+SECTION 2: WORD FINAL ENVIRONMENT ANALYSIS
+----------------------------------------
+Focus: What segments follow a Vowel Nucleus at the end of a Word?
+
+Vowel /a/ (12 tokens)
+-------------
+  Detailed Distribution (Final Environment: Count):
+    'a' : 8 tokens
+    'aj' : 4 tokens
+
+  Summary of Word-Final Coda/Segments Allowed:
+    Ø (Word-Final Vowel)           : 8 tokens
+    j                              : 4 tokens
+
+Vowel /e/ (10 tokens)
+-------------
+  Detailed Distribution (Final Environment: Count):
+    'e' : 10 tokens
+
+  Summary of Word-Final Coda/Segments Allowed:
+    Ø (Word-Final Vowel)           : 10 tokens
+
+Vowel /i/ (11 tokens)
+-------------
+  Detailed Distribution (Final Environment: Count):
+    'i' : 10 tokens
+
+  Summary of Word-Final Coda/Segments Allowed:
+    Ø (Word-Final Vowel)           : 10 tokens
+
+Vowel /o/ (5 tokens)
+-------------
+  Detailed Distribution (Final Environment: Count):
+    'oq' : 5 tokens
+
+  Summary of Word-Final Coda/Segments Allowed:
+    q                              : 5 tokens
+
+Vowel /u/ (3 tokens)
+-------------
+  Detailed Distribution (Final Environment: Count):
+    'u' : 3 tokens
+
+  Summary of Word-Final Coda/Segments Allowed:
+    Ø (Word-Final Vowel)           : 3 tokens
+
+Vowel /ũ/ (1 tokens)
+--------------
+  Detailed Distribution (Final Environment: Count):
+    'ũŋ' : 1 tokens
+
+  Summary of Word-Final Coda/Segments Allowed:
+    ŋ                              : 1 tokens
+
+Vowel /ɑ̃/ (8 tokens)
+--------------
+  Detailed Distribution (Final Environment: Count):
+    'ɑ̃j' : 4 tokens
+    'ɑ̃' : 3 tokens
+    'ɑ̃ŋ' : 1 tokens
+
+  Summary of Word-Final Coda/Segments Allowed:
+    j                              : 4 tokens
+    Ø (Word-Final Vowel)           : 3 tokens
+    ŋ                              : 1 tokens
+
+Vowel /ɔ̃/ (2 tokens)
+--------------
+  Detailed Distribution (Final Environment: Count):
+    'ɔ̃j' : 1 tokens
+    'ɔ̃ŋ' : 1 tokens
+
+  Summary of Word-Final Coda/Segments Allowed:
+    j                              : 1 tokens
+    ŋ                              : 1 tokens
+
+Vowel /ə/ (15 tokens)
+-------------
+  Detailed Distribution (Final Environment: Count):
+    'ə' : 7 tokens
+    'əŋ' : 3 tokens
+    'əj' : 2 tokens
+    'əm' : 2 tokens
+    'ək' : 1 tokens
+
+  Summary of Word-Final Coda/Segments Allowed:
+    Ø (Word-Final Vowel)           : 7 tokens
+    ŋ                              : 3 tokens
+    j                              : 2 tokens
+    m                              : 2 tokens
+    k                              : 1 tokens
+
+Vowel /ɛ̃/ (1 tokens)
+--------------
+  Detailed Distribution (Final Environment: Count):
+    'ɛ̃' : 1 tokens
+
+  Summary of Word-Final Coda/Segments Allowed:
+    Ø (Word-Final Vowel)           : 1 tokens
+
+Vowel /ɯ/ (4 tokens)
+-------------
+  Detailed Distribution (Final Environment: Count):
+    'ɯ' : 4 tokens
+
+  Summary of Word-Final Coda/Segments Allowed:
+    Ø (Word-Final Vowel)           : 4 tokens
+
+Vowel /ʌ/ (3 tokens)
+-------------
+  Detailed Distribution (Final Environment: Count):
+    'ʌ' : 3 tokens
+
+  Summary of Word-Final Coda/Segments Allowed:
+    Ø (Word-Final Vowel)           : 3 tokens
+
+
+================================================================================
+
+SECTION 3: ERROR LOG (Vowel from 'Label' NOT found in 'Word')
+-------------------------------------------------------------
+All Vowel Nuclei found in the data were successfully matched within their corresponding 'Word' entry. No errors to report.
+
+================================================================================

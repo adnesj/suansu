@@ -1,0 +1,131 @@
+--- UNIQUE GLIDE-VOWEL SEGMENTS (Conditional Inclusion of Preceding 'j') ---
+Total unique segments found: 16
+ja, jaj, je, ji, jə, wa, waj, we, wi, wɑ, wə, wəj, wɛ̃, aj, əj, ɑj, ɑ̃j, ɔ̃j, ɰe, ɰi
+
+--- ONGLIDE IS PART OF DIPHTHONG ---
+ja, je, (ji), jə, wa, we, wi, (wɑ?), wə, (wɛ̃?), ɰe, ɰi
+
+--- OFFGLIDE IS PART OF DIPHTHONG ---
+aj, əj, ɑj, ɑ̃j, ɔ̃j,
+
+Kan waj verra ɰaj? som i zɰaj, sell?
+
+
+
+--- UNIQUE GLIDE-VOWEL SEGMENTS (Capturing Max Context: (j) G V, V G, V G F) ---
+Total unique segments found: 17
+aj, ja, je, ji, jə, wa, we, wi, wə, wɛ̃, wʌ, ɑ̃j, ɔ̃j, əj, ɰe, ɰi, ʌj
+
+
+--- ONGLIDE IS PART OF DIPHTHONG ---
+ja, jaj, je, (ji), jə,  wa, waj, we, wi, wə, wəj, wɛ̃, wʌ, ɰe, ɰi
+
+--- ONGLIDE IS PART OF DIPHTHONG ---
+ja, je, jə, wa, we, wi, wə, wɛ̃, wʌ, ɰe, ɰi
+
+--- OFFGLIDE IS PART OF DIPHTHONG ---
+aj, əj, ʌj, ɑ̃j, ɔ̃j, 
+
+
+
+
+
+--- j-Onglide (19 unique entries) (Word (Gloss) | Vowel F1 | Vowel F2) ---
+jaj2 (shine) | 609 | 1114, j
+njʌ (guard) | 603 | 1150, ?
+pjaj2 (diverge v.) | 753 | 1338, i
+fje2 (throw v.) | 361 | 2044, ?
+kje2 (scream) | 394 | 2093, ?
+kje3 (slice) | 393 | 1823, ?
+mje1 (give) | 355 | 2017, i
+nje2 (bake v.) | 383 | 2136, i
+nje2 (convalesce, recover v.) | 310 | 2075, i
+nje2 (knead) | 410 | 1992, i
+nje3 (slip) | 350 | 2026, i
+pɹje2 (be easy) | 494 | 1928, i
+tje2 (that) | 387 | 1853, i
+t͡ʃ̺je1 (change v.) | 394 | 2266, i
+t͡θje (call v.) | 397 | 2078, i
+θje1 (shave v.) | 385 | 1979, j
+ji1 (smell, odour) | 324 | 2021, j
+njə1 (be fresh) | 434 | 1404, j
+pjə2 (shout) | 404 | 1255 j
+
+--- j-Offglide (50 unique entries) (Word (Gloss) | Vowel F1 | Vowel F2) ---
+daj2 (be old age) | 568 | 1070,
+dʌj2 (be big) | 530 | 1010,
+jaj2 (shine) | 609 | 1114,
+pjaj2 (diverge v.) | 753 | 1338,
+pɹaj2 (jump) | 614 | 1347,
+taj2 (hold) | 667 | 1185,
+tʰaj (see v.) | 674 | 1179,
+tʰaj2 (show) | 624 | 1133,
+t͡ʃ̺aj2 (cry v.) | 697 | 1129,
+t͡͡ʃ̺aj2 (weep) | 503 | 1113,
+waj2 (cook v.) | 561 | 986,
+zwaj2 (sell) | 519 | 1064,
+ðaj2 (distribute v.) | 648 | 1065,
+ðaj2 (divide v.) | 636 | 1077,
+ɹaj2 (weave) | 544 | 1006,
+ɹiθaj (strip off) | 673 | 1168,
+ʁaj2 (left) | 648 | 1213,
+d͡ʒəj2 (be tall) | 456 | 1263,
+fəj2 (borrow v.) | 419 | 1656,
+ləj2 (take) | 445 | 1271,
+mwəj2 (itch) | 406 | 1138,
+pjəj2 (shout) | 404 | 1255,
+tʰəj2 (be awake) | 436 | 1168,
+tʰəj2 (get up from bed) | 396 | 1237,
+tʰəj2 (grow) | 400 | 1340,
+tʰəj2 (wake up - get up v.) | 449 | 1365,
+t͡səj2 (be fat) | 508 | 1154,
+t͡ʃ̺wəj2 (be like smth) | 490 | 1253,
+t͡ʃ̺əj2 (be high) | 421 | 1315,
+t͡ʃ̺əj2 (be hot) | 441 | 1292,
+ðəj2 (win v.) | 462 | 1415,
+ŋəj2 (fry v.) | 467 | 1103,
+ɹəj2 (roast over flame) | 426 | 1223,
+ʃəjte (be heavy) | 406 | 1978,
+lʌj2 (rest) | 670 | 1134,
+pʰʌj1 (send) | 496 | 978,
+kət͡ʃɑ̃j1 (beat) | 506 | 1010,
+nɑ̃j1 (village) | 465 | 974,
+t͡sʰɑ̃j (hang) | 468 | 985,
+t͡θɑ̃j2 (enter approaching deictic center v.) | 566 | 1017,
+t͡θɑ̃j3 (join) | 555 | 935,
+ðɑ̃j2 (look) | 568 | 972,
+ɹɑ̃j2 (red) | 537 | 1053,
+θɑ̃j2 (put in) | 411 | 999,
+θɑ̃j2 (put) | 426 | 940,
+lɔ̃j2 (flow v.) | 476 | 789,
+mɔ̃j2 (drink v.) | 488 | 630,
+nɔ̃j2 (be sweet) | 429 | 771,
+oqɔ̃j2 (come down v.) | 449 | 829,
+qɔ̃j2 (descend v.) | 462 | 725
+
+--- w-Onglide (25 unique entries) (Word (Gloss) | Vowel F1 | Vowel F2) ---
+wa1 (lung) | 502 | 948, w
+waj2 (cook v.) | 561 | 986, w
+xwa2 (pig) | 604 | 986, w
+zwaj2 (sell) | 519 | 1064, w
+lwe2 (buy) | 373 | 1540, w
+mwe2 (twirl) | 326 | 1996, w(i)e
+mwe2 (what) | 538 | 0, w
+pwe3 (dry up) | 391 | 1997, wie
+twe2 (be wet) | 363 | 1766, u
+twe2 (enough) | 439 | 1946, w
+t͡ʃwe2 (hear) | 369 | 1845, ?
+t͡ʃ̺eɹwe2 (barter) | 417 | 1634, w
+we1 (bury v.) | 383 | 2241, w
+ɹwe1 (get v.) | 374 | 2025, w
+ɹwe1 (obtain) | 350 | 1779, w
+ɹwe2 (come across v.) | 386 | 1663, w
+ɹwe2 (meet) | 353 | 2012, w
+ʃwe2 (be thick) | 467 | 1834, u
+hwi2 (dog) | 351 | 2212, w
+wi1 (skin) | 289 | 2041, w
+ʃwi2 (water) | 334 | 1729, w
+mwəj2 (itch) | 406 | 1138, w
+t͡ʃ̺wəj2 (be like smth) | 490 | 1253, w
+t͡ʃ̺wʌ1 (big toe) | 550 | 850, w
+χwɛ̃1 (bear) | 510 | 1712 w

@@ -1,0 +1,47 @@
+Cut Word,English Gloss,Annotated Glide,Phonetic Glide Type,Onglide Duration (s),Vowel Complex Duration (V [V+j]) (s),Ratio (V/G [V+j]/G),Predicted Glide,Prediction Match (Annotated),Updated_Annotation
+jaj2,shine,j,j,0.171,0.155 (0.198),0.91 (1.15),j,Yes,j
+njʌ,guard,?,j,0.143,0.151,1.06,j,?,j
+pjaj2,diverge v.,i,j,0.126,0.136 (0.212),1.08 (1.68),j,No,j
+fje2,throw v.,?,j,0.114,0.047,0.41,i,?,i
+kje2,scream,?,j,0.130,0.109,0.84,i,?,i
+kje3,slice,?,j,0.109,0.074,0.68,i,?,i
+mje1,give,i,j,0.133,0.097,0.73,i,Yes,i
+nje2,bake v.,i,j,0.197,0.142,0.72,i,Yes,i
+nje2,"convalesce, recover v.",i,j,0.160,0.144,0.90,i,Yes,i
+nje2,knead,i,j,0.152,0.125,0.82,i,Yes,i
+nje3,slip,i,j,0.195,0.089,0.46,i,Yes,i
+pɹje2,be easy,i,j,0.131,0.128,0.98,i,Yes,i
+tje2,that,i,j,0.177,0.152,0.86,i,Yes,i
+t͡ʃ̺je1,change v.,i,j,0.110,0.084,0.77,i,Yes,i
+t͡θje,call v.,i,j,0.126,0.090,0.72,i,Yes,i
+θje1,shave v.,j,j,0.145,0.200,1.38,j,Yes,j
+ji1,"smell, odour",j,j,0.245,0.140,0.57,i,No,i
+njə1,be fresh,j,j,0.048,0.092,1.92,j,Yes,j
+wa1,lung,w,w,NaN,NaN,NaN,NaN (No Match),?,
+waj2,cook v.,w,w,0.169,0.147 (0.263),0.87 (1.55),w,Yes,w
+xwa2,pig,w,w,NaN,NaN,NaN,NaN (No Match),?,
+zwaj2,sell,w,w,0.101,0.116 (0.224),1.15 (2.22),w,Yes,w
+lwe2,buy,w,w,0.076,0.081,1.07,w,Yes,w
+mwe2,what,w,w,0.097,0.144,1.48,w,Yes,w
+twe2,be wet,u,w,0.081,0.094,1.15,w,No,w
+twe2,enough,w,w,0.099,0.161,1.62,w,Yes,w
+t͡ʃwe2,hear,?,w,0.066,0.079,1.19,w,?,w
+t͡ʃ̺eɹwe2,barter,w,w,0.050,NaN,NaN,NaN (Ratio Missing),NaN (No Ratio),NaN (Ratio Missing)
+we1,bury v.,w,w,0.153,0.235,1.54,w,Yes,w
+ɹwe1,get v.,w,w,0.082,0.147,1.81,w,Yes,w
+ɹwe1,obtain,w,w,0.075,0.085,1.12,w,Yes,w
+ɹwe2,come across v.,w,w,0.059,0.075,1.26,w,Yes,w
+ɹwe2,meet,w,w,0.101,0.177,1.75,w,Yes,w
+ʃwe2,be thick,u,w,0.129,0.129,1.00,u,Yes,u
+hwi2,dog,w,w,0.058,0.087,1.52,w,Yes,w
+wi1,skin,w,w,0.211,0.211 (0.320),1.00 (1.52),w,Yes,w
+ʃwi2,water,w,w,0.053,0.064,1.20,w,Yes,w
+mwəj2,itch,w,w,0.055,0.075 (0.217),1.38 (3.96),w,Yes,w
+t͡ʃ̺wəj2,be like smth,w,w,0.068,0.066 (0.102),0.98 (1.51),w,Yes,w
+t͡ʃ̺wʌ1,big toe,w,w,0.064,0.056,0.87,u,No,u
+t͡θɰe2,be sour,?,w,0.089,0.149,1.68,w,?,w
+zɰe1,right side,?,w,0.042,0.083,1.97,w,?,w
+zɰe2,drip v.,?,w,0.082,0.053,0.65,u,?,u
+θɰe2,squeeze,?,w,0.127,0.129,1.01,w,?,w
+nɰi2,breast,?,w,0.084,0.100,1.19,w,?,w
+zɰi1,shaded,?,w,0.058,0.196 (0.341),3.41 (5.94),w,?,w

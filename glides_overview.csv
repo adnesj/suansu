@@ -1,0 +1,43 @@
+Cut Word,English Gloss,Annotated Glide,Phonetic Glide Type,Onglide Duration (s),Vowel Complex Duration (V [V+j]) (s),Ratio (V/G [V+j]/G),Predicted Glide,Match Found
+jaj2,shine,j,j,0.171,0.155 (0.198),0.91 (1.15),i,Yes
+njʌ,guard,?,j,0.143,0.151,1.06,j,Yes
+pjaj2,diverge v.,i,j,0.126,0.136 (0.212),1.08 (1.68),j,Yes
+fje2,throw v.,?,j,0.114,0.047,0.41,i,Yes
+kje2,scream,?,j,0.130,0.109,0.84,i,Yes
+kje3,slice,?,j,0.109,0.074,0.68,i,Yes
+mje1,give,i,j,0.133,0.097,0.73,i,Yes
+nje2,bake v.,i,j,0.197,0.142,0.72,i,Yes
+nje2,"convalesce, recover v.",i,j,0.160,0.144,0.90,i,Yes
+nje2,knead,i,j,0.152,0.125,0.82,i,Yes
+nje3,slip,i,j,0.195,0.089,0.46,i,Yes
+pɹje2,be easy,i,j,0.131,0.128,0.98,i,Yes
+tje2,that,i,j,0.177,0.152,0.86,i,Yes
+t͡ʃ̺je1,change v.,i,j,0.110,0.084,0.77,i,Yes
+t͡θje,call v.,i,j,0.126,0.090,0.72,i,Yes
+θje1,shave v.,j,j,0.145,0.200,1.38,j,Yes
+ji1,"smell, odour",j,j,0.245,0.140,0.57,i,Yes
+njə1,be fresh,j,j,0.048,0.092,1.92,j,Yes
+pjə2,shout,j,j,,NaN,NaN,NaN (No Match),No
+wa1,lung,w,w,,NaN,NaN,NaN (No Match),No
+waj2,cook v.,w,w,0.169,0.147 (0.263),0.87 (1.55),u,Yes
+xwa2,pig,w,w,0.054,0.094,1.76,w,Yes
+zwaj2,sell,w,w,0.101,0.116 (0.224),1.15 (2.22),w,Yes
+lwe2,buy,w,w,0.076,0.081,1.07,w,Yes
+mwe2,what,w,w,0.097,0.144,1.48,w,Yes
+twe2,be wet,u,w,0.081,0.094,1.15,w,Yes
+twe2,enough,w,w,0.099,0.161,1.62,w,Yes
+t͡ʃwe2,hear,?,w,0.066,0.079,1.19,w,Yes
+t͡ʃ̺eɹwe2,barter,w,w,0.050,0.062,1.24,w,Yes
+we1,bury v.,w,w,0.153,0.235,1.54,w,Yes
+ɹwe1,get v.,w,w,0.082,0.147,1.81,w,Yes
+ɹwe1,obtain,w,w,0.075,0.085,1.12,w,Yes
+ɹwe2,come across v.,w,w,0.059,0.075,1.26,w,Yes
+ɹwe2,meet,w,w,0.101,0.177,1.75,w,Yes
+ʃwe2,be thick,u,w,0.129,0.129,1.00,u,Yes
+hwi2,dog,w,w,0.058,0.087,1.52,w,Yes
+wi1,skin,w,w,0.211,0.211 (0.320),1.00 (1.52),w,Yes
+ʃwi2,water,w,w,0.053,0.064,1.20,w,Yes
+mwəj2,itch,w,w,0.055,0.075 (0.217),1.38 (3.96),w,Yes
+t͡ʃ̺wəj2,be like smth,w,w,0.068,0.066 (0.102),0.98 (1.51),u,Yes
+t͡ʃ̺wʌ1,big toe,w,w,0.064,NaN,NaN,NaN (Ratio Missing),Yes
+χwɛ̃1,bear,w,w,0.048,0.134,2.82,w,Yes
